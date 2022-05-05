@@ -2,9 +2,14 @@ This is my ttrpg.
 
 Falcon = 6 damage
 Punch = 3 damage
+Fruit = 1 stun
 
 Falcon Punch
 Deals 10 damage
 
 Punch Punch
 Deals 6 damage
+
+
+Fruit Punch
+Deals 3 damage and 1 stun
